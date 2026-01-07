@@ -250,7 +250,7 @@ if st.session_state.view == "home":
 
     st.divider()
 
-    # SEARCH MODE (Autocomplete + word-match results)
+    # SEARCH MODE (Autocomplete + word-match results) section
     if typed.strip():
         if len(typed.strip()) < 2:
             st.caption("Type at least 2 characters for suggestions.")
