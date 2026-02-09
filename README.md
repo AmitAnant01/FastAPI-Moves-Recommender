@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System | Streamlit Web Application
+🎬 Movie Recommendation System | Streamlit Web Application 
 
 This is a content-based Movie Recommendation System built using Python, Machine Learning, and Streamlit.
 This web application recommends movies similar to the user’s searched movie by analyzing movie content such as genres and keywords.
